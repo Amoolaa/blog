@@ -4,4 +4,6 @@ menu = "main"
 weight = 1
 +++
 
-test
+somewhere to put some thoughts that could be worth sharing
+
+![https://imgs.xkcd.com/comics/exploits_of_a_mom.png](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
